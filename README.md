@@ -1,2 +1,3 @@
 # python_cookbook
-cookbook的学习笔记
+cookbook的学习笔记哦
+纪录下学习python_cookbook的过程
