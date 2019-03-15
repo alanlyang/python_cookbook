@@ -1,2 +1,2 @@
 # python_cookbook
-cook的学习笔记
+cookbook的学习笔记
